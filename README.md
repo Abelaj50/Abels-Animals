@@ -24,7 +24,7 @@ Once you are ready, open the project in Android Studio. Ensure that the Run/Debu
 ![App Start](images/app_start.png)
 
 
-The first activity of the application shows animal thumbnails in just two columns on the screen as to provide a lush, viewable image, and the animal name beneath, created using a couple different XML layouts (a main GridView and definition for each item in the GridView) and a customized version of BaseAdapter for control handling. Scrolling is enabled by default as not all animals are immediately viewed on the screen. The app handles orientation changes flawlessly through seperate landscape layout files. 
+The first activity of the application shows animal thumbnails in just two columns on the screen as to provide a lush, viewable image, as well as the animal name beneath, created using a couple different XML layouts (a main GridView and definition for each item in the GridView) and a customized version of BaseAdapter for control handling. Scrolling is enabled by default as not all animals are immediately viewed on the screen. The app handles orientation changes flawlessly through seperate landscape layout files. 
 
 Any single click on any item in the grid (i.e. any animal thumbnail) brings about the second activity, which is simply an enlarged version of the image. A click on this enlarged image will bring about the *third* activity, which displays interesting facts about that animal.  
 
@@ -36,7 +36,7 @@ A "long click" on any item in the grid (i.e. any animal thumbnail) within the fi
 ## Technologies
 Project is created with:
 * Android Studio Bumblebee 2021.1.1
-* Java SE 8
+* Java SE Development Kit (JDK) 11.0.11
 
 ## Credits
 All credits for the project idea go to Professor Ugo Buy. Credits to much of the [GridLayoutActivity.java](app/src/main/java/com/example/project2/GridLayoutActivity.java) and [ImageAdapter.java](app/src/main/java/com/example/project2/ImageAdapter.java) codebase also go to Professor Ugo Buy as the beginning template for our project. Credits to [Pexels.com](https://www.pexels.com/) and the following contributors listed below for the images used throughout this project:
