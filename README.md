@@ -39,7 +39,7 @@ Project is created with:
 * Java SE 8
 
 ## Credits
-All credits for the project idea go to Professor Ugo Buy. Credits to much of the [GridLayoutActivity.java](src/main/java/com/example/project2/GridLayoutActivity.java) and [ImageAdapter.java](src/main/java/com/example/project2/ImageAdapter.java) codebase also go to Professor Ugo Buy as the beginning template for our project. Credits to [Pexels.com](https://www.pexels.com/) and the following contributors listed below for the animal images used throughout this project:
+All credits for the project idea go to Professor Ugo Buy. Credits to much of the [GridLayoutActivity.java](app/src/main/java/com/example/project2/GridLayoutActivity.java) and [ImageAdapter.java](app/src/main/java/com/example/project2/ImageAdapter.java) codebase also go to Professor Ugo Buy as the beginning template for our project. Credits to [Pexels.com](https://www.pexels.com/) and the following contributors listed below for the animal images used throughout this project:
 * [Flickr](https://www.pexels.com/photo/tiger-beside-tree-145971/)
 * [Husain Chauhan](https://www.pexels.com/photo/silhouettes-of-unrecognizable-arabic-man-with-camel-at-sunset-4456133/) 
 * [Pixabay](https://www.pexels.com/photo/chimpanzee-sitting-on-gray-stone-in-closeup-photography-during-daytime-33787/)
