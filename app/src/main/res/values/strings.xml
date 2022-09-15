@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UIGridLayout</string>
+    <string name="animal_facts">Animal Facts</string>
+    <string name="animal_subtitle">Animal subtitle</string>
+    <string name="synopsis_text"><b>Synopsis:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut nisi eu elit iaculis dictum. Vivamus imperdiet lacinia pulvinar. Maecenas egestas blandit purus, a efficitur tortor maximus eget. Proin hendrerit egestas leo, ut vestibulum sem lobortis ac. Sed sed felis id justo vehicula consequat vestibulum at lectus. Vivamus interdum ligula a scelerisque euismod.</string>
+    <string name="lifespan_text"><b>Lifespan:</b> Lorem ipsum dolor sit amet, consectetur adipiscing.</string>
+    <string name="size_text"><b>Size:</b> <i>Height,</i> Lorem ipsum dolor. <i>Length,</i> Lorem ipsum dolor.</string>
+    <string name="weight_text"><b>Weight:</b> Lorem ipsum dolor sit amet, consectetur adipiscing.</string>
+    <string name="habitat_text"><b>Habitat:</b> Lorem ipsum dolor sit amet, consectetur adipiscing.</string>
+    <string name="diet_text"><b>Diet:</b> Lorem ipsum dolor sit amet, consectetur adipiscing.</string>
+    <string name="national_text"><b>National Animal of:</b> Lorem ipsum dolor sit amet, consectetur.</string>
+    <string name="conservation_text"><b>Conservation Status:</b> Lorem ipsum dolor sit amet, consectetur.</string>
+
+    <string-array name="subtitles">
+        <item><i>Angolan Giraffe</i></item>
+        <item><i>Bengal Tiger</i></item>
+        <item><i>Arabian Camel</i></item>
+        <item><i>Eastern Chimpanzee</i></item>
+        <item><i>Golden Eagle</i></item>
+        <item><i>Southern Lion</i></item>
+        <item><i>Great White Shark</i></item>
+        <item><i>Green Crested Lizard</i></item>
+    </string-array>
+
+    <string-array name="synopsis">
+        <item><b>Synopsis:</b> The giraffe is a tall African mammal belonging to the genus Giraffa. Specifically, it is an even-toed ungulate. It is the tallest living terrestrial animal and the largest ruminant on Earth. The giraffe\'s chief distinguishing characteristics are its extremely long neck and legs, its horn-like ossicones, and its spotted coat patterns. </item>
+        <item><b>Synopsis:</b> The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat, which support its requirements for prey and rearing of its offspring.</item>
+        <item><b>Synopsis:</b> A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as "humps" on its back. Camels have long been domesticated and, as livestock, they provide food and textiles. Camels are working animals especially suited to their desert habitat and are a vital means of transport for passengers and cargo.</item>
+        <item><b>Synopsis:</b> The chimpanzee (Pan troglodytes) is a species of great ape native to the continent of Africa. Evidence from fossils and DNA sequencing shows that Pan is a sister taxon to the human lineage and is humans\' closest living relative. The chimpanzee is covered in coarse black hair, but has a bare face, fingers, toes, palms of the hands, and soles of the feet.</item>
+        <item><b>Synopsis:</b> Eagle is the common name for many large birds of prey of the family Accipitridae. Eagles belong to several groups of genera, some of which are closely related. Most of the 60 species of eagle are from Eurasia and Africa. Eagles are not a natural group but denote essentially any bird of prey large enough to hunt sizeable vertebrate prey.</item>
+        <item><b>Synopsis:</b> The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. Adult male lions are larger than females and have a prominent mane. It is a social species, forming groups called prides. The lion is an apex and keystone predator. </item>
+        <item><b>Synopsis:</b> Sharks are a group of elasmobranch fish characterized by a cartilaginous skeleton, five to seven gill slits on the sides of the head, and pectoral fins that are not fused to the head. Sharks are found in all seas and are common to depths up to 6,600 ft. Several species are apex predators, which are organisms that are sitting at the top of their food chain.</item>
+        <item><b>Synopsis:</b> Lizards (suborder Lacertilia) are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica, as well as most oceanic island chains. Most lizards are quadrupedal, running with a strong side-to-side motion. They are often territorial, the males fighting with other males and signalling with colors to attract mates.</item>
+    </string-array>
+
+    <string-array name="lifespan">
+        <item><b>Lifespan:</b> 10 to 15 years in the wild, 20 to 25 years in captivity.</item>
+        <item><b>Lifespan:</b> 10 to 15 years in the wild, 20 to 25 years in captivity.</item>
+        <item><b>Lifespan:</b> 10 to 20 years in the wild, 20 to 40 years in captivity.</item>
+        <item><b>Lifespan:</b> 30 to 40 years in the wild, 50 to 60 years in captivity.</item>
+        <item><b>Lifespan:</b> 20 to 25 years in the wild, 25 to 50 years in captivity.</item>
+        <item><b>Lifespan:</b> 10 to 15 years in the wild, 20 to 25 years in captivity.</item>
+        <item><b>Lifespan:</b> 20 to 70+ years in the wild, 15 to 50 years in captivity.</item>
+        <item><b>Lifespan:</b> 10 to 15 years in the wild, 20 to 25 years in captivity.</item>
+    </string-array>
+
+    <string-array name="size">
+        <item><b>Size:</b> <i>Height,</i> 14 to 19 feet tall. <i>Length,</i> 7 to 8 feet long.</item>
+        <item><b>Size:</b> <i>Height,</i> 2 to 4 feet tall. <i>Length,</i> 6 to 10 feet long.</item>
+        <item><b>Size:</b> <i>Height,</i> 5 to 7 feet tall. <i>Length,</i> 7 to 11 feet long.</item>
+        <item><b>Size:</b> <i>Height,</i> 3 to 6 feet tall. <i>Length,</i> 1 to 2 feet long.</item>
+        <item><b>Size:</b> <i>Height,</i> 1 to  3 feet tall. <i>Length,</i> 4 to 7 feet long (wingspan).</item>
+        <item><b>Size:</b> <i>Height,</i> 2 to 4 feet tall. <i>Length,</i> 6 to 7 feet long.</item>
+        <item><b>Size:</b> <i>Height,</i> 0.1 to 10 feet tall. <i>Length,</i> 0.5 to 60 feet long.</item>
+        <item><b>Size:</b> <i>Height,</i> 0.01 to 2 feet tall. <i>Length,</i> 0.05 to 10 feet long.</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item><b>Weight:</b> 1,500 to 4,200 pounds.</item>
+        <item><b>Weight:</b> 200 to 680 pounds.</item>
+        <item><b>Weight:</b> 880 to 1,320 pounds. </item>
+        <item><b>Weight:</b> 60 to 160 pounds.</item>
+        <item><b>Weight:</b> 1 to 15 pounds.</item>
+        <item><b>Weight:</b> 270 to 570 pounds.</item>
+        <item><b>Weight:</b> 2 to 40,000 pounds.</item>
+        <item><b>Weight:</b> 0.0002 to 360 pounds.</item>
+    </string-array>
+
+    <string-array name="habitat">
+        <item><b>Habitat:</b> Giraffes usually inhabit savannas and woodlands.</item>
+        <item><b>Habitat:</b> From temperate to tropical/subtropical forests.</item>
+        <item><b>Habitat:</b> Usually found in the desert, prairie, or steppe.</item>
+        <item><b>Habitat:</b> Within forests and savannas of tropical Africa.</item>
+        <item><b>Habitat:</b> Eagles are distributed in all habitats across the world.</item>
+        <item><b>Habitat:</b> The lion inhabits grasslands, savannas, and shrublands.</item>
+        <item><b>Habitat:</b> Sharks are found in all saltwater with a few exceptions.</item>
+        <item><b>Habitat:</b> Mostly prefer warm, tropical climates but are adaptable.</item>
+    </string-array>
+
+    <string-array name="diet">
+        <item><b>Diet:</b> Giraffes eat leaves and buds on trees and shrubs.</item>
+        <item><b>Diet:</b> Tigers hunt hoofed mammals such as deer or boar.</item>
+        <item><b>Diet:</b> Camels are herbivores, eating grass, grains, wheat and oats.</item>
+        <item><b>Diet:</b> Chimpanzees eat mostly fruit but also eat leaves and seeds.</item>
+        <item><b>Diet:</b> Eagles eat small mammals, reptiles, fish, and other birds.</item>
+        <item><b>Diet:</b> Lions hunt hoofed animals such as wildebeest or zebra.</item>
+        <item><b>Diet:</b> Sharks diet range from plankton, to fish, to mammals.</item>
+        <item><b>Diet:</b> Lizards diet range from insects, to birds, to mammals.</item>
+    </string-array>
+
+    <string-array name="national">
+        <item><b>National Animal of:</b> Tanzania.</item>
+        <item><b>National Animal of:</b> India, Bangladesh, Malaysia, South Korea.</item>
+        <item><b>National Animal of:</b> Eritrea, Saudi Arabia. </item>
+        <item><b>National Animal of:</b> Sierra Leone.</item>
+        <item><b>National Animal of:</b> USA, Mexico, Albania, Panama, Poland.</item>
+        <item><b>National Animal of:</b> Ethiopia, Kenya, Morocco, Togo, England, Belgium, Macedonia, Netherlands, Iran, Singapore.</item>
+        <item><b>National Animal of:</b> N/A.</item>
+        <item><b>National Animal of:</b> Indonesia.</item>
+    </string-array>
+
+    <string-array name="conservation">
+        <item><b>Conservation Status:</b> Vulnerable.</item>
+        <item><b>Conservation Status:</b> Endangered.</item>
+        <item><b>Conservation Status:</b> Least Concern (Dromedary, Bactrian) to Critically Engangered (Wild Bactrian). </item>
+        <item><b>Conservation Status:</b> Endangered. </item>
+        <item><b>Conservation Status:</b> Least Concern (Little Eagle) to Critically Endangered (Philippine Eagle).</item>
+        <item><b>Conservation Status:</b> Vulnerable.</item>
+        <item><b>Conservation Status:</b> Least Concern (Creek Whaler) to Critically Endangered (Angelshark).</item>
+        <item><b>Conservation Status:</b> Least Concern (Gargoyle Gecko) to Critically Endangered (Fiji Crested Iguana).</item>
+    </string-array>
+
+    <string-array name="links">
+        <item>https://en.wikipedia.org/wiki/Giraffe</item>
+        <item>https://en.wikipedia.org/wiki/Tiger</item>
+        <item>https://en.wikipedia.org/wiki/Camel</item>
+        <item>https://en.wikipedia.org/wiki/Chimpanzee</item>
+        <item>https://en.wikipedia.org/wiki/Eagle</item>
+        <item>https://en.wikipedia.org/wiki/Lion</item>
+        <item>https://en.wikipedia.org/wiki/Shark</item>
+        <item>https://en.wikipedia.org/wiki/Lizard</item>
+    </string-array>
+
+</resources>
+
