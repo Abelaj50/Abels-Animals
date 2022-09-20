@@ -1,5 +1,5 @@
 # Abels-Animals
-Android application showcasing various animals and interesting facts about them along with other features, creating using the Android flavor of Java. CS 478 Project 2, UIC Spring 2022.
+Android application showcasing various animals and interesting facts about them along with other features, created using the Android flavor of Java. CS 478 Project 2, UIC Spring 2022.
 
 ## Table of contents
 * [General Info](#general-info)
